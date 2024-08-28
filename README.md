@@ -1,6 +1,6 @@
 # HR_Analytics
 
-![download](https://github.com/user-attachments/assets/7638be34-cd1b-441c-a1e0-8fbc584dad3d)
+![33](https://github.com/user-attachments/assets/402852e6-c411-40f2-8fc4-9b8a34ae32c7)
 
 ## Overview
 This project focuses on analyzing employee data to understand patterns and factors
